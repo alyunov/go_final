@@ -1,4 +1,4 @@
-module github.com/alyunov/go_yap_final_prj
+module github.com/alyunov/go_final
 
 go 1.23.0
 
